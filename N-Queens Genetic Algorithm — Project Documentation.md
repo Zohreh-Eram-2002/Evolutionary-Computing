@@ -4,7 +4,7 @@ This project implements a Genetic Algorithm (GA) to solve the classic N-Queens p
 
 ## Problem Statement
 
-The N-Queens problem asks: how can N queens be placed on an N×N chessboard so that no two queens share a row, column, or diagonal? Two queens attack each other when they occupy the same row, the same column, or either diagonal. For N = 8 (the classic version) there are exactly 92 distinct solutions out of 4,426,165,368 possible placements — making brute-force search impractical. The problem grows exponentially harder with N, motivating heuristic methods such as genetic algorithms.
+The N-Queens problem asks: how can N queens be placed on an N×N chessboard so that no two queens share a row, column, or diagonal? Two queens attack each other when they occupy the same row, the same column, or either diagonal. For N = 8 (the classic version) there are exactly 92 distinct solutions out of 4,426,165,368 possible placements, making brute-force search impractical. The problem grows exponentially harder with N, motivating heuristic methods such as genetic algorithms.
 
 ## Genetic Algorithm Design
 
